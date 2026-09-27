@@ -10,4 +10,4 @@ Broadband Telecommunications, Network Modeling, Graph Neural Network (GNN), Laye
 
 
 #### Dataset:
-This study evaluates both optimisation variants on NSFNet and GBN [datasets](https://example.com](https://github.com/knowledgedefinednetworking/Unveiling-the-potential-of-GNN-for-network-modeling-and-optimization-in-SDN/tree/master/datasets) introduced in the original RouteNet study as representative network performance modelling benchmarks with variations in topology, traffic conditions, and routing configurations. 
+This study evaluates both optimisation variants on NSFNet and GBN [datasets](https://github.com/knowledgedefinednetworking/Unveiling-the-potential-of-GNN-for-network-modeling-and-optimization-in-SDN/tree/master/datasets) introduced in the original RouteNet study as representative network performance modelling benchmarks with variations in topology, traffic conditions, and routing configurations. 
